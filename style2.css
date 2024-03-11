@@ -1,0 +1,39 @@
+/* styles.css */
+
+/* Navbar */
+.navbar {
+    border-radius: 0;
+    border: none;
+    background-color: transparent; /* Make navbar transparent */
+}
+
+.navbar-brand {
+    font-weight: bold;
+}
+
+/* Page Heading */
+h1.text-center {
+    margin-top: 50px; /* Add some space from the top */
+    color: aqua;
+}
+
+/* Menu Section */
+.menu-section {
+    background-color: #f8f9fa; /* Light grey background */
+    padding: 50px 0; /* Add some padding */
+}
+
+.menu-section h3 {
+    text-align: center; /* Center section headings */
+}
+
+.menu-section p {
+    margin-bottom: 20px; /* Add space between paragraphs */
+}
+.title{
+    color: aqua;
+    background: blue;
+}
+.hidden-xs{
+    color:grey;
+}
